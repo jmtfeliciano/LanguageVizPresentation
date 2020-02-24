@@ -1,0 +1,10 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+YaleSPH_tweets <- readRDS("~/tweets/YaleSPH_tweets.rds")
+```
+
+
